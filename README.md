@@ -10,7 +10,7 @@ __«Главная» (/)__
 
 __«О сайте» (/about)__
 
-Статичная страница с рандомным содежанием (lorem ipsum) [Макет](https://ibuycar.github.io/tests/static/tt_8.png)
+Статичная страница с рандомным содежанием (lorem ipsum) [Макет](https://ibuycar.github.io/tests/static/tt_6.png)
 
 __«Каталог» (/catalog)__
 
